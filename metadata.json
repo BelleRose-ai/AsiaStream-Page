@@ -1,0 +1,6 @@
+{
+  "name": "AsiaStream — Discovery & Recommendation Guide",
+  "description": "Curated discovery and recommendation guide for Asian dramas and anime. Find high-match series and where to watch them legally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
